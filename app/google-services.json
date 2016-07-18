@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031328339362",
+    "firebase_url": "https://gpsdemos.firebaseio.com",
+    "project_id": "gpsdemos",
+    "storage_bucket": "gpsdemos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031328339362:android:b7a6edbc376979ed",
+        "android_client_info": {
+          "package_name": "tomerbu.edu.simpletransitiondemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031328339362-e7ai4mda89bbdaq89nqaibc51jja4jqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tomerbu.edu.simpletransitiondemo",
+            "certificate_hash": "7A10AD770C6F4EC3BE4D27DFCD880B8519D9D87D"
+          }
+        },
+        {
+          "client_id": "1031328339362-41q43kvtevq76tu4n31a3mkpp9qi4b32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdUpTQ7MwJD7kjqHymX334hp5ZJ2tnTJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031328339362-41q43kvtevq76tu4n31a3mkpp9qi4b32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
